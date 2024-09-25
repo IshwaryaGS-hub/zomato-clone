@@ -1,0 +1,21 @@
+.header__logo {
+  /* height: 60px; */
+  width: 100px;
+  border-radius: 50%;
+}
+
+.header {
+  height: 60px;
+  z-index: 1;
+  position: relative;
+  display: flex;
+  padding: 4px 3rem;
+}
+
+.bg-red {
+  background-color: rgb(219, 18, 18);
+}
+
+.border-white {
+  border: solid 1px #fff;
+}

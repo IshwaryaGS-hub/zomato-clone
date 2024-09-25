@@ -1,0 +1,26 @@
+/* Filter.js */
+
+/* RestaurantFilter.js */
+.restaurantFilter {
+  height: 100vh;
+}
+
+.filterOption__title {
+  width: fit-content;
+}
+
+/* RestaurantResults.js */
+
+/* RestaurantCard.js */
+.restaurantCard {
+  width: fit-content;
+}
+
+.restaurantCard:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 5px lightcoral;
+  transition: transform 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+/* Common */

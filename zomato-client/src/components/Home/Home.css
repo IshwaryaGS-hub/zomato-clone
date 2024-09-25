@@ -1,0 +1,40 @@
+#restaurant__search {
+  width: 90%;
+}
+
+#restaurant__search:focus {
+  outline: transparent;
+}
+
+.wallpaper {
+  background-image: url("../../assets/homepageimg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  position: relative;
+  top: -60px;
+  /* z-index: -1; */
+}
+
+.quicksearchItem {
+  border: solid 1px lightgray;
+  width: 30%;
+  padding: 0;
+}
+
+.quicksearchItem:hover {
+  cursor: pointer;
+}
+
+.quicksearchItem img {
+  width: 40%;
+}
+
+.quicksearchItem > div {
+  width: 55%;
+}
+
+.quicksearch__container {
+  margin-top: -44px;
+}

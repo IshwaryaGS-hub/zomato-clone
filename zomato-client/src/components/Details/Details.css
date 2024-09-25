@@ -1,0 +1,9 @@
+.details__imgContainer {
+  position: relative;
+}
+
+.tab-content {
+  height: 550px;
+  overflow: hidden;
+  overflow-y: auto;
+}
